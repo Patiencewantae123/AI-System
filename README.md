@@ -1,7 +1,3 @@
-Here’s a polished and visually enhanced `README.md` in English, with icons for better engagement:  
-
----
-
 # 🤖 **Artificial Intelligence Systems**  
 
 [中文版本](./README_cn.md)  
